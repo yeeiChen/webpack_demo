@@ -2,7 +2,7 @@
  * @Description:
  * @Author: yeeChen
  * @Date: 2023-06-19 15:41:53
- * @LastEditTime: 2023-06-19 15:57:26
+ * @LastEditTime: 2023-06-19 16:12:51
  * @LastEditors: yeeChen
 -->
 
@@ -30,7 +30,7 @@ a demo of webpack
     }
 ```
 
-webpack-config 说明
+## webpack-config 说明
 
 mode:告知 webpack 使用相应模式的内置优化。
 entry:入口文件
